@@ -1,0 +1,7 @@
+﻿Id: SessionLimiter_b517d249-ac63-4512-b4a2-a58d3ac55961
+Name: Generic Plugin
+Author: John Doe
+Version: 1.0
+Module: SessionLimiter.dll
+Type: GenericPlugin
+Icon: icon.png
